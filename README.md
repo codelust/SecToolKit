@@ -1,43 +1,9 @@
 # ＳｅｃＴｏｏｌＫｉｔ
 Collection of most popular and preferred tools by Ethical Hackers, Penetration Testers and Cybersecurity Professionals.
-- [Anonymously Hiding Tools](#anonymously-hiding-tools)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Anonymously Hiding Tools
-- [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
-- [Multitor](https://github.com/trimstray/multitor)
+🔳 [Phishing Tools](#phishing-tools)
+🔳 [Open-Source Intelligence (OSINT) Tools](#osint-tools)
+🔳 [Remote Administration Tools (RAT)](#rat-tools)
+🔳 [Denial Of Service (DOS) & DDOS Tools](#dos-tools)
+🔳 [Wireless Hacking & Networking Tools](#wireless-network-tools)
+🔳 [Post Exploitation Tools](#dos-tools)
+🔳 [Password Cracking and Brute Forcing Tools](#passcrack-tools)
