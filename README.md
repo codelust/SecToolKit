@@ -3,12 +3,12 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 
 
 ⭕️ [Phishing Tools](#phishing-tools)<br>
-⭕️ [Open-Source Intelligence (OSINT) Tools](#osint-tools)<br>
-⭕️ [Remote Administration Tools (RAT)](#rat-tools)<br>
-⭕️ [Denial Of Service (DOS) & DDOS Tools](#dos-tools)<br>
-⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-network-tools)<br>
-⭕️ [Post Exploitation Tools](#dos-tools)<br>
-⭕️ [Password Cracking and Brute Forcing Tools](#passcrack-tools)<br>
+⭕️ [Open-Source Intelligence (OSINT) Tools](#open-source-intelligence-osint-tools)<br>
+⭕️ [Remote Administration Tools (RAT)](#remote-administration-tools-rat)<br>
+⭕️ [Denial Of Service (DOS) & DDOS Tools](#denial-of-service-dos--ddos-tools)<br>
+⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
+⭕️ [Post Exploitation Tools](#post-exploitation-tools)<br>
+⭕️ [Password Cracking and Brute Forcing Tools](#password-cracking-and-brute-forcing-tools)<br>
 
 <br><br><br>
 
