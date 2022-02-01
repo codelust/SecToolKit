@@ -1,16 +1,23 @@
 # ＳｅｃＴｏｏｌＫｉｔ
 Collection of most popular and preferred tools by Ethical Hackers, Penetration Testers and Cybersecurity Professionals.
 
-
-⭕️ [Phishing & Social Engineering Tools](#phishing-tools)<br>
+⭕️ [Anonymity Tools](#anonymity-tools)<br>
+⭕️ [Phishing & Social Engineering Tools](#phishing--social-engineering-tools)<br>
 ⭕️ [Exploitation Tools & Remote Administration Tools (RAT)](#exploitation-tools--remote-administration-tools-rat)<br>
 ⭕️ [Denial Of Service (DOS) & DDOS Tools](#denial-of-service-dos--ddos-tools)<br>
 ⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
-⭕️ [Web Exploitation Tools](#post-exploitation-tools)<br>
+⭕️ [Web Exploitation Tools](#web-exploitation-tools)<br>
 ⭕️ [Password Cracking and Brute Forcing Tools](#password-cracking-and-brute-forcing-tools)<br>
+⭕️ [SQL Injection Tools]()<br>
 ⭕️ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint--information-gathering-tools)<br>
-⭕️ [Steganography & Metadata Extracting Tools]()<br>
-⭕️ [Spaming Tools]()<br>
+⭕️ [Wordlist Generators]()<br>
+⭕️ [Steganography & Metadata Extracting Tools](#steganography--metadata-extracting-tools)<br>
+⭕️ [Spaming Tools](#spaming-tools)<br>
+
+### Anonymity Tools
+- [anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
+- [multitor - Create multiple TOR instances with load-balancing](https://github.com/trimstray/multitor)
+- [ProxyChains](https://github.com/haad/proxychains)
 
 ### Phishing & Social Engineering Tools
 - [CamPhish](https://github.com/techchipnet/CamPhish)
@@ -35,7 +42,6 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 - [Awesome Windows Post Exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation)
 - [BYOB - Post Exploitation Framework](https://github.com/malwaredllc/byob)
-- []()
 - [Other Direct Downloadable Tools](https://github.com/codelust/SecToolKit/tree/main/Remote%20Administration%20Tools%20(RAT))
 
 ### Denial Of Service (DOS) & DDOS Tools
@@ -52,10 +58,17 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [Wifite](https://github.com/derv82/wifite2)
 - [EvilTwin](https://github.com/Z4nzu/fakeap)
 - [Fastssh](https://github.com/Z4nzu/fastssh)
-- []()
+- [Wireshark](https://github.com/wireshark/wireshark)
+- [Nmap](https://github.com/nmap/nmap)
 
 ### Web Exploitation Tools
-- []()
+- [Burp Suite](https://portswigger.net/burp)
+- [Acunetix Vulnerability Scanner](https://www.acunetix.com/vulnerability-scanner/)
+- [CheckURL](https://github.com/UndeadSec/checkURL)
+- [Sublist3r - Subdomains Enumeration](https://github.com/aboul3la/Sublist3r)
+- [ffuf - Fuzz Faster U Fool](https://github.com/ffuf/ffuf)
+- [Wfuzz - The Web Fuzzer](https://github.com/xmendez/wfuzz)
+- [Dirbuster](https://sourceforge.net/projects/dirbuster/files/DirBuster%20Source/1.0-RC1/)
 
 ### Password Cracking and Brute Forcing Tools
 - [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
@@ -63,18 +76,25 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [hashcat](https://github.com/hashcat/hashcat)
 - [hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [Patator](https://github.com/lanjelot/patator)
-- []()
+
+### SQL Injection Tools
+- [sqlmap](https://github.com/sqlmapproject/sqlmap)
+- [NoSQLMap](https://github.com/codingo/NoSQLMap)
 
 ### Open-Source Intelligence (OSINT) & Information Gathering Tools
 - [Nmap](https://github.com/nmap/nmap)
 - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [GHunt](https://github.com/mxrch/GHunt)
+- [Xerosploit](https://github.com/LionSec/xerosploit)
+- [Infoga - Email OSINT](https://github.com/m4ll0k/Infoga)
+- [RED HAWK (All In One Scanning)](https://github.com/Tuhinshubhra/RED_HAWK)
 - [ReconDog](https://github.com/s0md3v/ReconDog)
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber)
 - [Profil3r](https://github.com/MrNonoss/Profil3r-docker)
-- []()
-- []()
+
+### Wordlist Generators
+- [CUPP - Common User Passwords Profiler](https://github.com/Mebus/cupp)
 
 ### Steganography & Metadata Extracting Tools
 - [Steghide](https://github.com/StefanoDeVuono/steghide)
@@ -82,11 +102,8 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [Exiftoo](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [WavSteg](https://github.com/ragibson/Steganography#WavSteg)
 - []()
-- []()
-- 
 
 ### Spaming Tools
 - [TBomb - A free and open-source SMS/Call bombing application](https://github.com/TheSpeedX/TBomb)
 - [HPomb](https://github.com/secanonm/HPomb)
 - [bomb3r](https://github.com/iMro0t/bomb3r)
-- []()
