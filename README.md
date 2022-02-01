@@ -14,21 +14,15 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 
 ### Phishing Tools
 - [CamPhish](https://github.com/techchipnet/CamPhish)
-
 ### Open-Source Intelligence (OSINT) Tools
-- []()
-
+- [sdf]()
 ### Remote Administration Tools (RAT)
-- []()
-
+- [af]()
 ### Denial Of Service (DOS) & DDOS Tools
-- []()
-
+- [sdf]()
 ### Wireless Hacking & Network Exploitation Tools
-- []()
-
+- [sfd]()
 ### Post Exploitation Tools
-- []()
-
+- [asd]()
 ### Password Cracking and Brute Forcing Tools
-- []()
+- [sdf]()
