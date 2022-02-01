@@ -1,18 +1,18 @@
 # ＳｅｃＴｏｏｌＫｉｔ
 Collection of most popular and preferred tools by Ethical Hackers, Penetration Testers and Cybersecurity Professionals.
 
-⭕️ [Anonymity Tools](#anonymity-tools)<br>
-⭕️ [Phishing & Social Engineering Tools](#phishing--social-engineering-tools)<br>
-⭕️ [Exploitation Tools & Remote Administration Tools (RAT)](#exploitation-tools--remote-administration-tools-rat)<br>
-⭕️ [Denial Of Service (DOS) & DDOS Tools](#denial-of-service-dos--ddos-tools)<br>
-⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
-⭕️ [Web Exploitation Tools](#web-exploitation-tools)<br>
-⭕️ [Password Cracking and Brute Forcing Tools](#password-cracking-and-brute-forcing-tools)<br>
-⭕️ [SQL Injection Tools](#sql-injection-tools)<br>
-⭕️ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint--information-gathering-tools)<br>
-⭕️ [Wordlist Generators](#wordlist-generators)<br>
-⭕️ [Steganography & Metadata Extracting Tools](#steganography--metadata-extracting-tools)<br>
-⭕️ [Spaming Tools](#spaming-tools)<br>
+▷ [Anonymity Tools](#anonymity-tools)<br>
+▷ [Phishing & Social Engineering Tools](#phishing--social-engineering-tools)<br>
+▷ [Exploitation Tools & Remote Administration Tools (RAT)](#exploitation-tools--remote-administration-tools-rat)<br>
+▷ [Denial Of Service (DOS) & DDOS Tools](#denial-of-service-dos--ddos-tools)<br>
+▷ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
+▷ [Web Exploitation Tools](#web-exploitation-tools)<br>
+▷ [Password Cracking and Brute Forcing Tools](#password-cracking-and-brute-forcing-tools)<br>
+▷ [SQL Injection Tools](#sql-injection-tools)<br>
+▷ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint--information-gathering-tools)<br>
+▷ [Wordlist Generators](#wordlist-generators)<br>
+▷ [Steganography & Metadata Extracting Tools](#steganography--metadata-extracting-tools)<br>
+▷ [Spaming Tools](#spaming-tools)<br>
 
 ### Anonymity Tools
 - [anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
