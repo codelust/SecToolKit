@@ -6,7 +6,7 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 ⭕️ [Exploitation Tools & Remote Administration Tools (RAT)](#exploitation-tools--remote-administration-tools-rat)<br>
 ⭕️ [Denial Of Service (DOS) & DDOS Tools](#denial-of-service-dos--ddos-tools)<br>
 ⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
-⭕️ [Post Exploitation Tools](#post-exploitation-tools)<br>
+⭕️ [Web Exploitation Tools](#post-exploitation-tools)<br>
 ⭕️ [Password Cracking and Brute Forcing Tools](#password-cracking-and-brute-forcing-tools)<br>
 ⭕️ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint--information-gathering-tools)<br>
 
@@ -25,32 +25,32 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [WebSploit](https://github.com/The404Hacking/websploit )
 - [Commix](https://github.com/commixproject/commix)
-
-<br>
-
-- [Beast 2.07](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/Beast%202.07.rar)
-- [LightCosmos Rat](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/LightCosmosRat%20master.rar)
-- [MeTuS Delphi](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/MeTuS%20Delphi.rar)
-- [Prorat v2.1](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/Prorat%20v2.1.rar)
-- [Proxy Checker v0.2 (in-Built RAT)](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/Proxy%20Checker%20v0.2%20(in-Built%20RAT).rar)
-- [Quasar RAT v1.4](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/Quasar%20RAT%20v1.4.rar)
-- [Ratty 1.20.1](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/Ratty%201.20.1.rar)
-- [SpyNote 4](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/SpyNote%204.rar)
-- [SpyNote v5.0](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/SpyNote%20v5.0.rar)
-- [SpyNote v6.4](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/SpyNote%20v6.4.rar)
-- [USB SPY - Slient Copy USB to Computer](https://github.com/codelust/SecToolKit/blob/main/Remote%20Administration%20Tools%20(RAT)/USB%20SPY%20-%20Slient%20Copy%20USB%20to%20Computer.rar)
+- [Other Direct Downloadable Tools](https://github.com/codelust/SecToolKit/tree/main/Remote%20Administration%20Tools%20(RAT))
 
 ### Denial Of Service (DOS) & DDOS Tools
-- []()
--
+- [GoldenEye - HTTP DoS Test Tool](https://github.com/jseidl/GoldenEye)
+- [LOIC (Low Orbit Ion Cannon) - TCP, UDP, HTTP Flood](https://sourceforge.net/projects/loic/)
+- [Other Direct Downloadable Tools](https://github.com/codelust/SecToolKit/tree/main/Denial%20Of%20Service%20(DOS)%20%26%20DDOS%20Tools)
+
 ### Wireless Hacking & Network Exploitation Tools
+- [WiFi-Pumpkin](https://github.com/P0cL4bs/wifipumpkin3)
+- [pixiewps](https://github.com/wiire/pixiewps)
+- [Bluetooth Honeypot GUI Framework](https://github.com/andrewmichaelsmith/bluepot)
+- [Fluxion](https://github.com/thehackingsage/Fluxion)
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher)
+- [Wifite](https://github.com/derv82/wifite2)
+- [EvilTwin](https://github.com/Z4nzu/fakeap)
+- [Fastssh](https://github.com/Z4nzu/fastssh)
 - []()
 
-### Post Exploitation Tools
+### Web Exploitation Tools
 - []()
 
 ### Password Cracking and Brute Forcing Tools
-- []()
+- [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
+- [John the Ripper](https://github.com/openwall/john)
+- [hashcat](https://github.com/hashcat/hashcat)
+- [hydra](https://github.com/vanhauser-thc/thc-hydra)
 
 ### Open-Source Intelligence (OSINT) & Information Gathering Tools
 - [Nmap](https://github.com/nmap/nmap)
