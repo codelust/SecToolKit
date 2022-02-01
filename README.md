@@ -19,9 +19,12 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [WishFish](https://github.com/kinghacker0/WishFish)
 - [evilginx2](https://github.com/kgretzky/evilginx2)
 
-### Open-Source Intelligence (OSINT) Tools
+### Open-Source Intelligence (OSINT) & Information Gathering Tools
+- [Nmap](https://github.com/nmap/nmap)
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [GHunt](https://github.com/mxrch/GHunt)
 - []()
--
 ### Remote Administration Tools (RAT)
 - []()
 ### Denial Of Service (DOS) & DDOS Tools
