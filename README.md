@@ -8,9 +8,9 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 ⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
 ⭕️ [Web Exploitation Tools](#web-exploitation-tools)<br>
 ⭕️ [Password Cracking and Brute Forcing Tools](#password-cracking-and-brute-forcing-tools)<br>
-⭕️ [SQL Injection Tools]()<br>
+⭕️ [SQL Injection Tools](#sql-injection-tools)<br>
 ⭕️ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint--information-gathering-tools)<br>
-⭕️ [Wordlist Generators]()<br>
+⭕️ [Wordlist Generators](#wordlist-generators)<br>
 ⭕️ [Steganography & Metadata Extracting Tools](#steganography--metadata-extracting-tools)<br>
 ⭕️ [Spaming Tools](#spaming-tools)<br>
 
@@ -101,7 +101,6 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve)
 - [Exiftoo](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [WavSteg](https://github.com/ragibson/Steganography#WavSteg)
-- []()
 
 ### Spaming Tools
 - [TBomb - A free and open-source SMS/Call bombing application](https://github.com/TheSpeedX/TBomb)
