@@ -3,7 +3,7 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 
 
 ⭕️ [Phishing Tools](#phishing-tools)<br>
-⭕️ [Open-Source Intelligence (OSINT) Tools](#open-source-intelligence-osint-tools)<br>
+⭕️ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint-tools)<br>
 ⭕️ [Remote Administration Tools (RAT)](#remote-administration-tools-rat)<br>
 ⭕️ [Denial Of Service (DOS) & DDOS Tools](#denial-of-service-dos--ddos-tools)<br>
 ⭕️ [Wireless Hacking & Network Exploitation Tools](#wireless-hacking--network-exploitation-tools)<br>
@@ -14,15 +14,21 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 
 ### Phishing Tools
 - [CamPhish](https://github.com/techchipnet/CamPhish)
+- [ShellPhish](https://github.com/suljot/shellphish)
+- [SocialFish](https://github.com/UndeadSec/SocialFish)
+- [WishFish](https://github.com/kinghacker0/WishFish)
+- [evilginx2](https://github.com/kgretzky/evilginx2)
+
 ### Open-Source Intelligence (OSINT) Tools
-- [sdf]()
+- []()
+-
 ### Remote Administration Tools (RAT)
-- [af]()
+- []()
 ### Denial Of Service (DOS) & DDOS Tools
-- [sdf]()
+- []()
 ### Wireless Hacking & Network Exploitation Tools
-- [sfd]()
+- []()
 ### Post Exploitation Tools
-- [asd]()
+- []()
 ### Password Cracking and Brute Forcing Tools
-- [sdf]()
+- []()
