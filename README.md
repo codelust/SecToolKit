@@ -77,6 +77,7 @@ Collection of most popular and preferred tools by Ethical Hackers, Penetration T
 - [hashcat](https://github.com/hashcat/hashcat)
 - [hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [Patator](https://github.com/lanjelot/patator)
+- [FastSSH](https://github.com/Z4nzu/fastssh)
 
 ### SQL Injection Tools
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
