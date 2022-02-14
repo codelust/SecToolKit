@@ -21,7 +21,7 @@
 
 ### Phishing & Social Engineering Tools
 - [CamPhish](https://github.com/techchipnet/CamPhish)
-- [HiddenEye](https://gitlab.com/An0nUD4Y/hiddeneye)
+- [HiddenEye](https://gitlab.com/codelust_/hiddeneye/)
 - [Advance Phishing](https://github.com/Ignitetch/AdvPhishing)
 - [ShellPhish](https://github.com/suljot/shellphish)
 - [SocialFish](https://github.com/UndeadSec/SocialFish)
