@@ -12,8 +12,8 @@
 ▷ [Open-Source Intelligence (OSINT) & Information Gathering Tools](#open-source-intelligence-osint--information-gathering-tools)<br>
 ▷ [Wordlist Generators](#wordlist-generators)<br>
 ▷ [Steganography & Metadata Extracting Tools](#steganography--metadata-extracting-tools)<br>
-▷ [Spaming Tools](#spaming-tools)<br>
 ▷ [Wordlists / Payloads / Other Lists](#wordlists--payloads--other-lists)<br>
+▷ [Spaming Tools](#spaming-tools)<br>
 
 ### Anonymity Tools
 - [anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
