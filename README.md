@@ -13,6 +13,7 @@
 ▷ [Wordlist Generators](#wordlist-generators)<br>
 ▷ [Steganography & Metadata Extracting Tools](#steganography--metadata-extracting-tools)<br>
 ▷ [Spaming Tools](#spaming-tools)<br>
+▷ [Wordlists / Payloads / Other Lists] (#wordlists--payloads--other-lists)<br>
 
 ### Anonymity Tools
 - [anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
@@ -34,6 +35,7 @@
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 - [MSFvenom Payload Creator (MSFPC)](https://github.com/g0tmi1k/msfpc)
 - [VENOM - Metasploit Shellcode generator/compiller](https://github.com/r00t-3xp10it/venom)
+- [BeEF - The Browser Exploitation Framework] (https://github.com/beefproject/beef)
 - [TheFatRat](https://github.com/screetsec/TheFatRat)
 - [Brutal](https://github.com/screetsec/Brutal)
 - [RouterSploit](https://github.com/threat9/routersploit)
@@ -103,6 +105,12 @@
 - [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve)
 - [Exiftoo](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [WavSteg](https://github.com/ragibson/Steganography#WavSteg)
+
+### Wordlists / Payloads / Other Lists
+- [Payloads All The Things] (https://github.com/swisskyrepo/PayloadsAllTheThings) 
+- [SecLists] (https://github.com/danielmiessler/SecLists)
+- [Assetnote Wordlists] (https://github.com/danielmiessler/SecLists)
+- [rockyou] (https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
 
 ### Spaming Tools
 - [TBomb - A free and open-source SMS/Call bombing application](https://github.com/TheSpeedX/TBomb)
