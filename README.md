@@ -80,6 +80,7 @@
 - [hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [Patator](https://github.com/lanjelot/patator)
 - [FastSSH](https://github.com/Z4nzu/fastssh)
+- [Kraken](https://kraken.nswardh.com/)
 
 ### SQL Injection Tools
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
